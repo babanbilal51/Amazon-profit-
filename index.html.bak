@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <title>Amazon Affiliate Profits</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet"
+
+      type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet"
+
+      type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
+
+      type="text/css">
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <link rel="stylesheet" href="css/functional.css">
+    <script src="js/flowplayer.min.js"></script>
+    <style type="text/css">
+    .container .row .one-column p a {
+      color: #FFF;
+    }
+    .subhead {
+      font-family: lato;
+      font-size: large;
+      font-weight: bold;
+      color: #FFF;
+    }
+    .whitecolor { color: #FFF;
+    }
+    .blackfont {
+      color: #232323;
+    }
+    .red {
+      color: #ff0000;
+    }
+    .blue{
+      color: #063f69;
+    }
+    .video-container {
+       position:relative;
+       padding-bottom: 52.1%;
+       padding-top:30px;
+       height:0;
+       overflow:hidden;
+       border: 10px solid #eee;
+       border-radius: 5px;
+    }
+    .video-container iframe, .video-container object, .video-container embed {
+       position:absolute;
+       top:0;
+       left:0;
+       width:100%;
+       height:100%;
+    }
+    .list-icon li{ margin-bottom: 3rem; }
+    .heading{ color: #b44014;
+    text-shadow: 0 1px 1px #ccc; }
+    .v-align{ vertical-align: middle; }
+    .vid-scr{ border-radius: 5px; border: 10px solid #333; }
+    img{max-width: 100%;height: auto;}
+    iframe{ max-width: 100%; }
+    p{ text-align: left; }
+    ul{ padding-left: 0; list-style-image: none; list-style-type: none;}
+    li {
+      margin-bottom: 1rem;
+      text-align: left;
+      background-image: url(images/bullet.png);
+      background-repeat: no-repeat;
+      line-height: 1.6em;
+      padding-left: 44px;
+      min-height: 32px;
+    }
+    h1{
+      text-align: center;
+      color: #fff;
+      font-weight: bold;
+    }
+    h6{ 
+      margin: 20px 0 0;
+      color: #0789ae;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 56px;
+    }
+    @media (max-width: 767px){
+      .header-buy-button{
+        margin-bottom: 0px!important;
+      }
+    }
+  </style>
+      <link rel="stylesheet" href="./style.css">
+  </head>
+  <body> <!-- Headline Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div style="background-color: #232323; background-image: url(images/background.png); background-repeat: no-repeat; background-position: center; background-size: cover;">
+      <div class="container">
+        <div class="row">
+          <div class="one-column" style="padding-top: 2%; padding-bottom: 1%;">
+            <div align="center">
+              <p style="text-align: center;"><img src="images/logo-black.png" width="300"></p>
+            </div>
+            <center> </center>
+            <h1><img src="images/oto-warning.png" height="140" width="600"></h1>
+            <h1 style="text-shadow: 0 1px 1px #000">Would You Like To Discover A
+              Shortcut To Becoming a Super Amazon Affiliate, Even Faster?</h1>
+            <h5 style="color: #000;" align="center">If so, pay close attention
+              to this very limited, special offer…<br>
+              You will only see this once...</h5>
+            <!-- For youtube -->
+            <div class="one-column" style="padding-top: 2%; padding-bottom: 2%;">
+              <center>
+                <!-- the player -->
+                <div class="video-container"> <iframe src="https://www.youtube.com/embed/IZ8gLiMK1A4?rel=0&amp;autoplay=1&amp;=rel=0&amp;controls=0&amp;showinfo=0"
+
+                    allowfullscreen="" height="473" frameborder="0" width="840"></iframe>
+                </div>
+              </center>
+            </div>
+            <!-- For flowplayer -->
+            <!-- <div class="one-column" style="padding-top: 2%; padding-bottom: 2%;">
+          <center>            <div class="flowplayer fixed-controls">              <video autoplay data-title="Autoplay Adaptive ratio">                <source type="video/mp4" src="">              </video>            </div>          </center>        </div> -->
+            <p></p>
+            <h1 style="color: #FFF; font-weight: bold;" align="center"><a href="https://www.digistore24.com/product/474469"><img
+
+                  src="images/buy-button-1.png" class="header-buy-button" style="    margin-bottom: -130px;"
+
+                  width="650"></a></h1>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>flowplayer("player", "http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf");</script>
+    <div class="into" style="padding-top: 8%;">
+      <div class="container">
+        <div class="row">
+          <div class="one-column">
+            <div class="row" style="padding-bottom: 10px;">
+              <p><strong>Dear Valued Customer,</strong></p>
+              <p>First off, thanks so much for purchasing the guide That Will
+                Teach You How To Make 6 Figures with Amazon, The Easy Way.</p>
+              <p>If you follow the step-by-step guide, you will be heading
+                straight to that goal...</p>
+              <p>But, what if you could do it even faster…</p>
+              <p>And what if you could insure that you get the absolute BEST
+                results possible and stay focused…</p>
+              <p>In short, making sure that this is a real success.</p>
+              <p>The good news is, you can…</p>
+              <p>For a limited time, you can get access to the video upgrade to
+                the guide you just purchased at a big discount...</p>
+              <p>This powerful upgrade will make it easier to get started and
+                stay committed to your ultimate goal.</p>
+              <p>Just to be clear, this is an EXCLUSIVE upgrade for customers
+                only...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end intro -->
+    <div style="background-color: #fafafa; color: #333; padding: 5%;">
+      <div class="container">
+        <div class="row">
+          <div class="one-column">
+            <h2 align="center"><strong>Why You Need To Upgrade To The<br>
+                Video Version Of The <span style="color: #ff9900">“Amazon
+                  Affiliate Profits”</span> Guide...</strong></h2>
+            <p>&nbsp;</p>
+            <img src="images/upgrade.png" style="max-width: 50%;float: right; margin-left: 10px;"
+
+              width="500">
+            <p>Did you know that most people learn a lot faster when they see
+              something being done on video than by just reading about it?</p>
+            <p>That’s because most people out there are visual learners.</p>
+            <p>How do you normally learn the best?</p>
+            <p>Although the guide you just purchased gives you a step-by-step
+              approach to Making 6 Figures with Amazon, The Easy Way...</p>
+            <p>...but many of the Amazon marketing hacks require you to pay very
+              close attention to the details to get the best results possible.</p>
+            <p>If you miss any of the most important details or do things the
+              wrong way, you may miss out on the fullest benefits offered inside
+              the guide.</p>
+            <p>For that very reason, I’ve put together a video version to make
+              it much easier to get positive results quickly…</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="padding: 5%; background-color: #fff;background-image: url(images/gradient.png); background-repeat: no-repeat;background-size: cover; ">
+      <div class="container">
+        <div class="row">
+          <div class="one-column">
+            <h3 align="center"><strong style="color: #333;">The Video Version Of
+                The Guide<br>
+                You Just Purchased Will Help You...<br>
+              </strong></h3>
+            <p>&nbsp;</p>
+            <div class="row">
+              <div class="one-column">
+                <div class="four columns " align="center"> <img src="images/missing.png"
+
+                    style="max-width: 100%;margin-right: 25px;" width="150">
+                  <p style="text-align: center;">Avoid missing any important key
+                    details that you might miss by only reading the guide</p>
+                </div>
+                <div class="four columns" align="center"> <img src="images/focus.png"
+
+                    style="max-width: 100%;margin-right: 25px;" width="150">
+                  <p style="text-align: center;" "="">Stay focused and
+                    accountable, and follow through and make sure you get
+                    ongoing results</p>
+                </div>
+                <div class="four columns" align="center"> <img src="images/benefits.png"
+
+                    style="max-width: 100%; margin-right: 25px;" width="150">
+                  <p style="text-align: center;" "="">Ensure that the work you
+                    put in now keeps on giving you benefits long into the future</p>
+                </div>
+              </div>
+            </div>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="padding-top: 5%; padding-bottom: 2%; color: #FFF; background-image: linear-gradient(to top, black 0%,white 100%), url(images/bg-feat-2-min.jpg); background-blend-mode:multiply; background-repeat: repeat-x repeat-y;background-size: cover;">
+      <div class="container">
+        <div class="row">
+          <div class="one-column">
+            <h3 style="color: #fff;" align="center"><strong><span style="color: #ff9900;">Introducing...
+                  </span><br></strong></h3>
+            <p></p>
+            <h1>Amazon Affiliate Profits</h1>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p style="text-align: center;"><img src="images/bundle.png" style="max-width: 100%;"
+
+                width="800"> </p>
+            <p style="text-align: center;">Are you ready to Become a Super
+              Amazon Affiliate a lot faster?</p>
+            <p style="text-align: center;">If the answer is “YES,” click the
+              link below…</p>
+            <h4 align="center"><strong><u><a href="https://www.digistore24.com/product/474469"
+
+                    style="color: #ff9900">“Yes, Upgrade Me NOW To The Video
+                    Version, So I Can Get The Best Results Possible”</a></u></strong></h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="background-color: #fff; padding-top: 5%; padding-bottom: 2%; color: #333;">
+      <div class="container">
+        <div class="row">
+          <div class="blackfont">
+            <p>And the good news is...</p>
+            <h2 align="center"><strong>Right Now You Can Upgrade<br>
+                And Lock-In A Massive <span style="color: #ff9900">75% Discount</span></strong></h2>
+            <p><img src="images/discount.png" style="float: right;" width="500"></p>
+            <p>This is the next best thing to having an Amazon Affiliate expert
+              right beside you, showing you how it’s done...</p>
+            <p>Of course, hiring an Amazon Affiliate expert would easily set you
+              back hundreds of dollars...</p>
+            <p>Luckily, you’re not going to have to invest anywhere near that
+              today to get the next best thing...</p>
+            <p>Not only will you avoid many of the most common mistakes that
+              people make when trying to make 6 figures with Amazon, you’ll
+              notice immediate positive results in your achievements...</p>
+            <p>If you’re a visual learner or prefer to be shown something as
+              opposed to just reading about it… you need this special video
+              upgrade to get the best results possible.</p>
+            <p>Right now, your limited opportunity to upgrade to the video
+              version for just…$37</p>
+            <p style="text-align: center;"><a href="https://www.digistore24.com/product/474469"><img
+
+                  src="images/buy-button.png" alt="" height="130" width="600"><img
+
+                  src="https://speechelo.com/g-offer/images2/compatible.png" alt=""
+
+                  style="width: 733px; height: 116px;"></a></p>
+            <div style="text-align: center;"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p></p>
+    <div style="background: #fafafa; padding: 5% 0">
+      <div class="container">
+        <div class="row">
+          <div class="one-column">
+            <h4 align="center"><strong style="color: #000;">Here is a Quick Peek
+                at the<br>
+                Quality Of The Video Course Included:</strong></h4>
+            <p></p>
+            <div class="row">
+              <div class="six columns v-align">
+                <h6 align="center">Video 1 - What's Amazon.com all about?</h6>
+                <img class="vid-scr" src="images/video-1.png" alt="" width="100%">
+              </div>
+              <div class="six columns v-align">
+                <h6 align="center">Video 2 - How do you make money with Amazon
+                  as an affiliate?</h6>
+                <img class="vid-scr" src="images/video-2.png" alt="" width="100%">
+              </div>
+            </div>
+            <div class="row">
+              <div class="six columns v-align">
+                <h6 align="center">Video 3 - Why Amazon Affiliate Marketing is
+                  your best choice</h6>
+                <img class="vid-scr" src="images/video-3.png" alt="" width="100%">
+              </div>
+              <div class="six columns v-align">
+                <h6 align="center">Video 4 - Picking a Hot Amazon Niche</h6>
+                <img class="vid-scr" src="images/video-4.png" alt="" width="100%">
+              </div>
+            </div>
+            <div class="row">
+              <div class="six columns v-align">
+                <h6 align="center">Video 5 - Selecting some Hot Products to
+                  Promote</h6>
+                <img class="vid-scr" src="images/video-5.png" alt="" width="100%">
+              </div>
+              <div class="six columns v-align">
+                <h6 align="center">Video 6 - Creating an Amazon Affiliate
+                  Website</h6>
+                <img class="vid-scr" src="images/video-6.png" alt="" width="100%">
+              </div>
+            </div>
+            <div class="row">
+              <div class="six columns v-align">
+                <h6 align="center">Video 7 - Creating Product Oriented Content</h6>
+                <img class="vid-scr" src="images/video-7.png" alt="" width="100%">
+              </div>
+              <div class="six columns v-align">
+                <h6 align="center">Video 8 - Creating Your Amazon Associates
+                  Account</h6>
+                <img class="vid-scr" src="images/video-8.png" alt="" width="100%">
+              </div>
+            </div>
+            <div class="row">
+              <div class="six columns v-align">
+                <h6 align="center">Video 9 - Linkingyour Amazon Affiliate Links</h6>
+                <img class="vid-scr" src="images/video-9.png" alt="" width="100%">
+              </div>
+              <div class="six columns v-align">
+                <h6 align="center">Video 10 - Promoting your Amazon Affiliate
+                  Website – Part 1</h6>
+                <img class="vid-scr" src="images/video-10.png" alt="" width="100%">
+              </div>
+            </div>
+            <div class="row">
+              <div class="six columns v-align">
+                <h6 align="center">Video 11 - Promoting your Amazon Affiliate
+                  Website - Part 2</h6>
+                <img class="vid-scr" src="images/video-11.png" alt="" width="100%">
+              </div>
+              <div class="six columns v-align">
+                <h6 align="center">Video 12 - Building an Amazon Affiliate
+                  Empire the Right Way</h6>
+                <img class="vid-scr" src="images/video-12.png" alt="" width="100%">
+              </div>
+            </div>
+            <div class="row">
+              <div class="six columns v-align">
+                <h6 align="center">Video 13 - Amazon Native Shopping Ads</h6>
+                <img class="vid-scr" src="images/video-13.png" alt="" width="100%">
+              </div>
+              <div class="six columns v-align">
+                <h6 align="center">Video 14 - Embedding an Amazon aStore into
+                  Facebook</h6>
+                <img class="vid-scr" src="images/video-14.png" alt="" width="100%">
+              </div>
+            </div>
+            <div class="row">
+              <div class="six columns v-align">
+                <h6 align="center">Video 15 - Other Amazon Affiliate Marketing
+                  Strategies to Consider</h6>
+                <img class="vid-scr" src="images/video-15.png" alt="" width="100%">
+              </div>
+              <div class="six columns v-align"> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p></p>
+    <div style="color: #333; padding: 5%;">
+      <div class="container">
+        <div class="row">
+          <div class="one-column">
+            <center>
+              <h2 align="center"><strong style="color: #333;">When You Upgrade
+                  Today, You’ll Also Get This Exclusive Fast Action Bonus…</strong></h2>
+            </center>
+            <p align="center"></p>
+          </div>
+        </div>
+        <div style="box-shadow: 0 0 20px #ccc;margin-bottom: 30px;">
+          <div class="row" style="background-color: #ff9900; padding-top: 40px;">
+            <div class="one-column">
+              <h4 style="color: #fff;font-size: 30px" align="center"><strong>Fast
+                  Action Bonus<br>
+                  High-Quality MP3s Of The Entire Video Version Of The Training</strong></h4>
+            </div>
+          </div>
+          <div class="row" style="background-color: #fff;border: 1px solid #eee; padding: 40px;">
+            <div class="five columns"> <img src="images/voiceover.png" alt="" width="360"></div>
+            <div class="seven columns">
+              <p>Don’t have time to watch videos? I am also providing you with
+                10 MP3s that you can use while you’re on the go…</p>
+              <p>Listen to them in the car, at home, or even at the office…</p>
+              <p>All day… Every day.</p>
+              <p>And here’s what’s really great about this...</p>
+              <h4><span style="font-family: Helvetica,Arial,sans-serif;"><u>Bonus
+                    # 2</u></span></h4>
+              <h5><u style="color: #cc0000;">&gt;&gt;Special Bonus For You</u></h5>
+              <h4> </h4>
+            </div>
+          </div>
+          <img src="images/case-dvd%20-%20small.png" style="margin-top: -199px; width: 248px; height: 238px;">
+        </div>
+      </div>
+    </div>
+    <div style="background-color: #000000; padding-top: 5%; padding-bottom: 4%;">
+      <div class="container">
+        <div class="row" style="color: #FFF">
+          <div class="one-column">
+            <h3 align="center"><strong>You Don’t Have To<br>
+                Decide Anything Today...</strong></h3>
+            <div class="row">
+              <div class="eight columns">
+                <h5>Our Excellent Product comes with a special 60 Day 100% Money
+                  Back Policy!</h5>
+                We want you to be totally psyched about our products. If at any
+                time within 60 days of purchasing, you are not 100% satisfied,
+                you may return it to us for a refund. No questions asked.</div>
+              <div class="four columns" align="center"><img src="images/money-back-guarantee.png"
+
+                  width="250"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!--  Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div style="background-color: #fff; padding-top: 3%; padding-bottom: 0%; color: #333">
+      <div class="container">
+        <div class="row">
+          <div class="one-column">
+            <h2 align="center"><strong>Here’s How To Get Instant Access<br>
+                To The Video Version Today...</strong></h2>
+            <p>Simply click the link below, enter your information, and you’ll
+              get INSTANT ACCESS to the entire video training version PLUS the
+              Fast Action Bonus MP3s…</p>
+            <p>Right now, your limited opportunity to upgrade to the video
+              version for just…$37</p>
+            <p style="text-align: center;"><a href="https://www.digistore24.com/product/474469"><img
+
+                  src="images/buy-button.png" alt="" height="130" width="600"></a></p>
+            <h2 align="center"><strong>But, Please Don’t Wait...</strong></h2>
+            <p>To lock-in the discounted pricing, you MUST grab this RIGHT NOW!</p>
+            <p>In fact, if you close this page, you may never have the
+              opportunity to upgrade to the video version of this ever again at
+              an investment this low.</p>
+            <p>And remember, this special, discounted pricing is reserved for
+              existing customers ONLY.</p>
+            <h2 align="center"><strong>Are you ready To Make Things<br>
+                Happen a lot faster?</strong></h2>
+            <img src="images/startup.png" alt="" style="float: right;" width="300">
+            <p>If you prefer to learn by being shown how to do something, and
+              you want to get results quickly… this is for you…</p>
+            <p>If you’re REALLY serious about Becoming a Super Amazon Affiliate
+              and start your path to making 6 figures with it, the easy way…
+              this is for you...</p>
+            <p>And, if you’re one of those people that’s a visual learner, you
+              NEED THIS!</p>
+            <p>Here’s to becoming the most productive YOU that you can be!</p>
+            <p><strong>[Qadeer Musaddaq]</strong></p>
+            <p style="background-color: white; margin-top: -21px;"><strong><u style="color: #009900;">Founder
+                  of Expert-Tips</u><br>
+              </strong></p>
+            <p>&nbsp;</p>
+            <p style="margin-top: -54px;"><strong>PS</strong>– Still here? We’ve
+              put together the most frequently asked questions about this
+              powerful video upgrade...</p>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </div>
+      <div style="border: 8px solid #333; border-left: none; border-right: none; border-top: 8px solid #eee; background-image: url(images/faq-bg.png); background-repeat: no-repeat;background-size: cover; padding-top: 3%; padding-bottom: 0%;">
+        <div class="container">
+          <div class="row">
+            <div class="one-column" style="font-size: 15px;">
+              <h3 align="center"><strong>Frequently Asked Questions </strong></h3>
+              <br>
+            </div>
+          </div>
+          <div class="row" style="padding-bottom: 10px; font-size: 15px;">
+            <div class="six columns">
+              <p><span class="blackfont"><strong>Q.</strong></span><strong> Who
+                  should get the Video Training?</strong><br>
+                <strong class="red">A. </strong>If you’re a visual learner, the
+                video version makes it easier than ever to get results fast and
+                start your path to Making 6 Figures with Amazon, The Easy Way! …
+                right away. </p>
+              <p>Although the guide you just purchased leaves no stone unturned,
+                if you want to be sure you see results as fast as possible, you
+                need to get the video version.</p>
+              <p>Not only will you see results faster, but you’ll make sure you
+                stick to your plan and in many cases, you’ll get even BETTER
+                results by following the video upgrade.</p>
+              <p><strong>Q. How many videos are there?</strong><br>
+                <strong class="red">A. </strong>There are 10, high-quality,
+                in-depth videos that cover everything you’ll find inside the
+                text-based version of the guide…</p>
+              <p><strong>Q. How is this different than the EBook version of the
+                  training?</strong><br>
+                <strong class="red">A. </strong>Although the material covered
+                is the same, it’s done in a format that makes it much easier for
+                you to learn and start making things happen as quickly as
+                possible.</p>
+              <p>It’s proven that most people struggle and ultimately give up
+                with text only guides. THIS upgrade gives you the best chance
+                for success and will pay for itself extremely quickly.</p>
+            </div>
+            <div class="six columns">
+              <p><strong>Q. In what format is the training delivered?</strong><br>
+                <strong class="red">A. </strong>You’ll get 10 high-quality
+                videos in MP4 format that you can download and view anytime you
+                want.</p>
+              <p><strong>Q. How much is this?</strong><br>
+                <strong class="red">A. </strong>For a very limited time, you
+                can access the video upgrade at a massive discount.<br>
+                To qualify for this discount, you must say yes right now. If you
+                close this page and try to come back later, I cannot guarantee
+                that price won’t be higher or that this will even still be
+                available to you.</p>
+              <p><strong>Q. Is there a guarantee?</strong><strong></strong></p>
+              <p><strong class="red">A.</strong> Of course. You get a FULL 60
+                days to make sure this is for you. If for any reason, or no
+                reason at all you’re not 100% satisfied with what’s inside,
+                simply send me an email, and I’ll refund every penny of your
+                tiny investment…</p>
+              <p>No questions asked.</p>
+              <p><strong>Q. How do I get INSTANT ACCESS to the training now?</strong><strong></strong></p>
+              <p align="left">To upgrade to the video version along with the
+                Fast Action Bonus MP3’s, click the link below now…</p>
+            </div>
+          </div>
+          Right now, your limited opportunity to upgrade to the video version
+          for just…$37</div>
+        <div class="container">
+          <div align="center">
+            <p style="text-align: center;"><a href="https://www.digistore24.com/product/474469"><img
+
+                  src="images/buy-button.png" alt="" height="130" width="600"></a></p>
+            <p style="color: red;">(Remember, if you close this page, you may
+              never see this again at such a low investment… There’s no risk…
+              Try this out for 60 days and then decide if this is for you. It
+              doesn’t get any easier than that)</p>
+            <p></p>
+          </div>
+        </div>
+        <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <!--  Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– --><!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <!--  Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– --><!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <!--<!-- Begin of Digistore24 Trusted Badge Code -->
+        <script type="text/javascript" src="https://www.digistore24.com/trusted-badge/22877/U7UNphkRhUSM06l/salespage"></script><!-- End of Digistore24 Trusted Badge Code -->--&gt;
+        <div style="background-color: #232323; padding-top: 2%; padding-bottom: 1%;">
+          <div class="container">
+            <div class="row">
+              <div class="one-column">
+                <p style="font-size: 14px; color: #666666; text-align: center; height: 3px; margin-top: -17px;"><a
+
+                    href="privacy-policy.html" target="_blank">Privacy Policy</a>
+                  | <a href="disclaimer.html" target="_blank">Disclaimer</a> |
+                  <a href="terms-and-conditions.html" target="_blank">Terms and
+                    Conditions</a> | <a href="support.html" target="_blank">Support</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– --> </div>
+    </div>
+    <!-- partial:index.partial.html -->
+    <div class="bts-popup" role="alert">
+      <div class="bts-popup-container"> <img src="https://timertopia.files.wordpress.com/2017/04/2-minutes.gif"
+
+          alt="" width="12%"> <img src="https://thumbs.gfycat.com/TornCleanBittern-max-1mb.gif"
+
+          alt="" width="90%">
+        <address>PLUS $2 DOLLAR ADDITIONAL DISCOUNT</address>
+        <div> <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Red-animated-arrow-down.gif"
+
+            alt="" width="5%&quot;">FIRST 100 ONLY<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Red-animated-arrow-down.gif"
+
+            alt="" width="5%"> </div>
+        <div class="bts-popup-button"> <a href="https://www.youtube.com/watch?v=CuIqSzvnOHs">Grab
+            your discount now</a> </div>
+        <a href="https://www.youtube.com/watch?v=CuIqSzvnOHs" class="bts-popup-close img-replace"></a>
+      </div>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+      <script src="./script.js"></script> </div>
+  </body>
+</html>
